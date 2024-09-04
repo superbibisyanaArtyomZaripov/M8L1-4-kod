@@ -10,4 +10,4 @@
 - мои сайты
 
 ## Гайды-статьи, где есть полезная для меня информация
-статья про  ... [ccылка на краткую статью про это](https://rg.ru/2023/11/07/kak-prostoj-chelovek-mozhet-povliiat-na-globalnoe-poteplenie.html)
+статья про  ... [ccылка на  статью ](https://rg.ru/2023/11/07/kak-prostoj-chelovek-mozhet-povliiat-na-globalnoe-poteplenie.html)
