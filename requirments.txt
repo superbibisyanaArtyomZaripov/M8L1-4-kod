@@ -2,4 +2,4 @@
 
 библиотека flask
 
-и шаблоны:Сайт-дневник
+и шаблон:https://github.com/superbibisyanaArtyomZaripov/shablon
